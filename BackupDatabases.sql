@@ -1,6 +1,6 @@
 
 
---Se necess·rio, executar a alteraÁ„o da credencial.
+--Se necess√°rio, executar a altera√ß√£o da credencial.
 --Obs: alterar a SAS TOKEN
  ALTER CREDENTIAL [https://labblobdp300.blob.core.windows.net/lab-migracao-sql-to-mi] 
  WITH IDENTITY = 'SHARED ACCESS SIGNATURE',  
@@ -25,15 +25,3 @@
  TO URL = 'https://labblobdp300.blob.core.windows.net/lab-migracao-sql-to-mi/AdventureWorksLT_log.trn'  
  WITH COMPRESSION, CHECKSUM
 
-
- /*
- Teste 01
- */
-
-
- /*
- Teste 02
- 
-
- Teste 03
- */
