@@ -25,3 +25,7 @@
  TO URL = 'https://labblobdp300.blob.core.windows.net/lab-migracao-sql-to-mi/AdventureWorksLT_log.trn'  
  WITH COMPRESSION, CHECKSUM
 
+
+ /*
+ TESTE 01 - Backup de banco de dados para URL do Azure Blob Storage
+ */
